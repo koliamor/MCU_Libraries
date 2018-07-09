@@ -384,6 +384,11 @@
               <FileType>1</FileType>
               <FilePath>..\..\gpio\stm32f4xx_gpio_config.c</FilePath>
             </File>
+            <File>
+              <FileName>stm32f4xx_config.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\stm32f4xx_config.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
